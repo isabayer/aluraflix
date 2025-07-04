@@ -1,5 +1,31 @@
 body {
     background-color: black
-    color: darkgoldenrod
-    font-family: "Trebuchet MS" , ""
+    color: purple
+    font-family: "Trebuchet MS" , "Comic Sans MS" , cursive;
+    margin: 0;
+}
+
+header {
+    font-size: 60px;
+    padding: 6px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    border-bottom: double 5px powderblue
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align:center;
+}
+ 
+iframe, video {
+    display: block;
+    margin; o auto;
+    width:80%;
+    max-width: 700px;
+}
  
